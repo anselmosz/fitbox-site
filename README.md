@@ -4,11 +4,13 @@
 Este é um projeto de e-commerce
 
 ### 🔗 Links
-Status / Deploy
+**Status / Deploy**
 
-##### Perfis do desenvolvedor
+**Desenvolvedor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c1f3)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/anselmosz)
+
 
 ##
 

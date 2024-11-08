@@ -3,13 +3,7 @@
 ### Sobre
 Este é um projeto de e-commerce
 
-### 🔗 Links
-**Status / Deploy**
-
-**Desenvolvedor**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c1f3)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/anselmosz)
+### 🔗 Status e Deploy
 
 
 ##
@@ -24,3 +18,9 @@ Este é um projeto de e-commerce
  -->
 - Back-end
   - A implementar
+
+
+**Sobre o desenvolvedor**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c1f3)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/anselmosz)
